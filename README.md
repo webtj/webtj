@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://www.taojian.icu"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);岁月易虚，寸阴当惜。&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://www.taojian.icu"> <img src="https://readme-typing-svg.herokuapp.com/?lines=岁月易虚，寸阴当惜。&center=true&size=27"> </a> </h1>
 
 - 👋 大家好，我是怕疼的猫，待过大厂，干过外包，当过管理但还是爱做写代码的小兵。
 - 🌱 目前沉迷于javascript，是一位半路子前端工程师。
