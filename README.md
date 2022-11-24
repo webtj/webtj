@@ -3,7 +3,7 @@
 - 👋 大家好，我是怕疼的猫，待过大厂，干过外包，当过管理但还是爱做写代码的小兵。
 - 🌱 目前沉迷于javascript，是一位半路子前端工程师。
 - 💞️ 一直在寻找有趣的平台和志同道合的朋友，希望相互学习,共同进步。
-- 📖 项目：📫 [【我的博客】](https://www.taojian.icu)、🧰[【前端工具库】](https://webtj.github.io/missyt-utils/)、🖥️[【vue3+vite后台管理框架】](https://github.com/webtj/vite-vue3-admin)
+- 📖 项目：📫 [【我的博客】](https://www.taojian.icu)、🧰[【前端工具库】](https://webtj.github.io/missyt-utils/)、🖥️[【vue3+vite后台管理框架】](https://www.taojian.icu/admin)
 - 略了解的技术：
 <div align="center"> 
 <img src="https://img.shields.io/badge/-Python-000?style=flat-square&logo=python" />
