@@ -7,8 +7,8 @@
   - 📫 [我的博客主页](https://www.taojian.icu)
   - 🖥️ [vue3+vite后台管理框架](https://www.taojian.icu/admin)
   - 🧰 [前端工具库 *missyt-utils*](https://webtj.github.io/missyt-utils/)
-  - 🛺 [前端自动化部署工具 *missyt-deploy*](https://github.com/webtj/missyt-deploy)
-  - 🔗 [npm源管理命令行工具 *missyt-npm*](https://github.com/webtj/missyt-npm)
+  - 🛺 [前端自动化部署工具 *missyt-deploy*](https://github.com/webtj/missyt-deploy)【[国内访问](https://gitee.com/lazy_tj/missyt-deploy)】
+  - 🔗 [npm源管理命令行工具 *missyt-npm*](https://github.com/webtj/missyt-npm)【[国内访问](https://gitee.com/lazy_tj/missyt-npm)】
   
 - 了解的技术：
 <div align="center"> 
