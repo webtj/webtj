@@ -8,7 +8,7 @@
   - 🖥️ [vue3+vite后台管理框架](https://www.taojian.icu/admin)
   - 🧰 [前端工具库 *missyt-utils*](https://webtj.github.io/missyt-utils/)
   - 🛺 [前端自动化部署工具 *missyt-deploy*](https://github.com/webtj/missyt-deploy)
-  - 🔗 [一键切换npm源命令行工具 *missyt-npm*](https://github.com/webtj/missyt-npm)
+  - 🔗 [npm源管理命令行工具 *missyt-npm*](https://github.com/webtj/missyt-npm)
   
 - 了解的技术：
 <div align="center"> 
