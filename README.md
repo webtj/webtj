@@ -3,12 +3,12 @@
 - 👋 大家好，我是怕疼的猫，待过大厂，干过外包，当过管理但还是爱做写代码的小兵。
 - 🌱 目前沉迷于javascript，是一位半路子前端工程师。
 - 💞️ 一直在寻找有趣的平台和志同道合的朋友，希望相互学习,共同进步。
-- 📖 自己的小项目：
+- 📖 自己的小项目(*github长期维护,gitee同步更新*)：
   - 📫 [我的博客主页](https://www.taojian.icu)
   - 🖥️ [vue3+vite后台管理框架](https://www.taojian.icu/admin)
-  - 🧰 [前端工具库 *missyt-utils*](https://webtj.github.io/missyt-utils/)
-  - 🛺 [前端自动化部署工具 *missyt-deploy*](https://github.com/webtj/missyt-deploy)【[国内访问](https://gitee.com/lazy_tj/missyt-deploy)】
-  - 🔗 [npm源管理命令行工具 *missyt-npm*](https://github.com/webtj/missyt-npm)【[国内访问](https://gitee.com/lazy_tj/missyt-npm)】
+  - 🧰 [前端工具库 *missyt-utils*](https://webtj.gitee.io/missyt-utils/)【[github](https://webtj.github.io/missyt-utils/)】
+  - 🛺 [前端自动化部署工具 *missyt-deploy*](https://gitee.com/webtj/missyt-deploy)【[github](https://github.com/webtj/missyt-deploy)】
+  - 🔗 [npm源管理命令行工具 *missyt-npm*](https://gitee.com/webtj/missyt-npm)【[github](https://github.com/webtj/missyt-npm)】
   
 - 了解的技术：
 <div align="center"> 
